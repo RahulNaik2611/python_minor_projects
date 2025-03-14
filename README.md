@@ -6,7 +6,7 @@ Welcome to the Multi-Project Repository! This repository contains several Python
 
 ## Table of Contents
 
-- [Project 1: Bill Tip Calculator](<a>minor_project/Bill_tip_calculator.py<a>)
+- [Project 1: Bill Tip Calculator] <a> minor_project/Bill_tip_calculator.py </a>
 
 ## Project 1: Bill Tip Calculator
 
