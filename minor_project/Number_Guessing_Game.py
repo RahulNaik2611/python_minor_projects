@@ -14,6 +14,7 @@ while True:
             print("Too high")
         else:
             print("Congratulations! you guessing the number.")
+            break                         
 
 
 
